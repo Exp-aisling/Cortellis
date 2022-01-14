@@ -1,2 +1,2 @@
 # Cortellis
-A package to get data from Cortellis using a search term. 
+A package to extract data from Cortellis using a search term. 
